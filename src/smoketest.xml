@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TestAll">
+    <configuration>
+        <configfailurepolicy>continue</configfailurepolicy>
+      </configuration>
+      
+	<test name="order">
+		<classes>
+			<class name="com.TestSuite.BfGfVtChildren_GfHavingMEC" />
+		</classes>
+	</test>
+
+</suite>

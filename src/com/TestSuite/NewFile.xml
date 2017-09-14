@@ -1,0 +1,12 @@
+<suite name="TestAll">
+    <configuration>
+        <configfailurepolicy>continue</configfailurepolicy>
+      </configuration>
+      
+	<test name="order">
+		<classes>
+			<class name="com.TestSuite.SingleMemApp" />
+		</classes>
+	</test>
+
+</suite>
