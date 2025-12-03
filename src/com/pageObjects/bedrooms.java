@@ -8,7 +8,7 @@ public interface bedrooms {
 	
 	public static By nextbtn = By.xpath("//span[contains(text(),'Next')]");
 	
-public static By firstopt = By.id("__o3id6");
+	public static By firstopt = By.id("__o3id6");
 	
 	public static By secondopt = By.id("__o3id6_1");
 	
@@ -17,6 +17,8 @@ public static By firstopt = By.id("__o3id6");
 	public static By fourthopt = By.id("__o3id6_3");
 	
 	public static By fifthopt = By.id("__o3id6_4");
+	public static By sixthopt = By.id("__o3id6_5");
+	public static By seventhopt = By.id("__o3id6_6");
 	
 
 
